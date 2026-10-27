@@ -97,3 +97,8 @@ RPC: `search_members`, `admin_add_members`, `admin_set_active`, `admin_delete_me
 4. 서비스 워커가 없어 PWA 매니페스트만 있고 오프라인은 지원하지 않습니다.
 5. 외부 스크립트(supabase-js CDN)에 SRI 해시가 없습니다.
 6. 자동 테스트가 없습니다. 순수 함수(`utils.js`, `state.js`의 `nthAt`, `store.js`의 `cands`)부터 테스트를 붙이기 좋습니다.
+
+## 개발자
+
+- GitHub: [@pingpongbs1996](https://github.com/pingpongbs1996)
+- 저장소: [pingpongbs1996/build-up-app](https://github.com/pingpongbs1996/build-up-app)
